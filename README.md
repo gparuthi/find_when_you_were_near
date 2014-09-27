@@ -1,7 +1,7 @@
 find_when_you_were_near
 =======================
 
-A mini project to find when you were near a given location
+A mini project to find when you were near a given location. Try it out here: http://intecolab.com:15000/
 
 
 Projects referenced:
