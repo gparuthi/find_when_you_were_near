@@ -1,7 +1,7 @@
 from datetime import date, datetime, timedelta
 from flask import Flask, url_for, request, session, redirect, render_template, make_response, current_app, jsonify
 from logger import logger
-import datetime, folium, random, numpy as np, pandas as pd
+import datetime, random, numpy as np, pandas as pd
 from bs4 import BeautifulSoup
 from werkzeug.utils import secure_filename
 from werkzeug.contrib.fixers import ProxyFix
